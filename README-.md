@@ -29,13 +29,13 @@ Users should be able to:
 ### Screenshot
 
 ![](./screenshot.jpg)
-
+![screenshot](image.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/blog-preview-card-css-81bqujCXnQ
+- Live Site URL: https://hexandhover.github.io/blog-preview-card-main/
 
 ## My process
   I started building this after getting frustrated with a javascript tutorial. It was like arriving to a flower field after slaying 500 goblin.
